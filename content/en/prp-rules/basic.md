@@ -68,14 +68,14 @@ Information welche während des Zwischenstadiums (Todes-Screen) aufgenommen werd
 
 Die Kooperationsregeln geben die Verhältnisse zwischen den einzelnen Berufen und Fraktionen wieder.
 
-#### 4a. Kooperation zwischen Gangs und Familien
+#### 4a. Kooperation zwischen Gangs und Kartelle
 
-Freundschaftliche Verhältnisse dürfen unter den Fraktionen rp-technisch bestehen. Gangs/Familien ist die Kooperation unter- oder miteinander in jeglicher Form untersagt.
+Freundschaftliche Verhältnisse dürfen unter den Fraktionen rp-technisch bestehen. Gangs/Kartellen ist die Kooperation unter- oder miteinander in jeglicher Form untersagt.
 Auch die aktive Behinderung anderer Fraktionen um sich gegenseitig einen Vorteil zu verschaffen, das gemeinsame Printen von Geld oder die gemeinsame Herstellung von Drogen ist verboten.
 
-#### 4b. Kooperation zwischen Polizei und Gangs
+#### 4b. Kooperation zwischen Polizei und kriminellen Fraktionen
 
-Die Kooperation zwischen polizeilichen Institutionen und Gangs ist untersagt.
+Die Kooperation zwischen polizeilichen Institutionen und kriminellen Fraktionen ist untersagt.
 
 #### 4c. Mediziner
 
@@ -157,9 +157,9 @@ Folgende Dinge gelten als FailRP:
 * absichtliche Provokation einer polizeilichen Maßnahme
 * absichtliche Provokation von Gang- und Familienmitgliedern
 * zusammenhanglos zu seinem Job zu agieren
-* Foltern von anderen Spielern
+* Bunnyhopping oder Crouch Jumping
 * das Ziehen von Waffen in jeder noch so kleinen Situation
-* "Bunnyhopping" oder exzessives "Crouch Jumping" in Konflikten aller Art
+* Foltern von anderen Spielern
 
 ### 11. FearRP
 
@@ -175,6 +175,7 @@ Du darfst unter Umständen fliehen, wenn du nicht mehr aktiv bedroht wirst und d
 ### 12. Chatregeln
 
 Für die Sprache im Chat greift Punkt 1 unter Allgemeines.
+Der Gruppenchat ("U"-Chat) ist kein OOC-Chat und dient zur Verständigung unter den Fraktionen.
 
 #### 12a. OOC-Chat
 
