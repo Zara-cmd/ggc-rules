@@ -10,7 +10,7 @@ weight: 2
 Die Polizei hat den gesetzlichen Auftrag die Ordnung und Sicherheit im Staat aufrecht zu erhalten.
 Die Fraktionsleitung ist dazu verpflichtet interne Vorschriften zu erlassen und die Einhaltung dieser zu überwachen.
 
-### 1a. Dienstwaffe
+#### _1a. Dienstwaffe_
 Es dürfen nur die für die Polizei erhältlichen Waffen im Dienst genutzt werden.
 Der Gebrauch der Dienstwaffe stellt das letzte Mittel der Wahl dar und ist bedacht zu nutzen.
 
