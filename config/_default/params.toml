@@ -1,7 +1,7 @@
 logo = true
-logoText = "ZDoc"
+logoText = "Good Gaming Community | Regelwerke"
 logoType = "short" # long, short
-description = "The ZDoc theme for Hugo example site."
+description = "Hier findest du alle notwendigen Regeln, Informationen und Hinweise zu unseren Gameservern"
 
 themeOptions = ["light", "dark"]
 
@@ -11,13 +11,13 @@ enableTocSwitch = true
 enableLandingBackground = false
 enableSearch = true
 enableSearchHighlight = true
-enableLangChange = true
+enableLangChange = false
 enableDarkMode = true
 enableBreadcrumb = true
 enableBlogBreadcrumb = true
 enableEditBtn = false
 enableToc = true
-enableMenu = true
+enableMenu = false
 enableNavbar = true
 enableFooter = true
 showPoweredBy = true
