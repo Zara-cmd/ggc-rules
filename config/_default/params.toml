@@ -17,8 +17,8 @@ enableBreadcrumb = true
 enableBlogBreadcrumb = true
 enableEditBtn = false
 enableToc = true
-enableMenu = false
-enableNavbar = true
+enableMenu = true
+enableNavbar = false
 enableFooter = true
 showPoweredBy = true
 
