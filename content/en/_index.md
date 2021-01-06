@@ -15,13 +15,13 @@ landing:
   textColor:
   spaceBetweenTitleText: 25
   buttons:
-    - link: prp-rules
+    - link: krp-rules
       text: Regelwerk | Kingdom Roleplay
       color: primary
-    - link: docs
+    - link: prp-rules
       text: Regelwerk | Police Roleplay
       color: primary
-    - link: docs
+    - link: ttt-rules
       text: Regelwerk | TTT 2.0
       color: primary
   # backgroundImage: 
