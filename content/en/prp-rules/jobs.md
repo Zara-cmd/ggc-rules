@@ -94,14 +94,14 @@ Eine willkürliche Herausgabe von Medikamenten ist nicht erlaubt. Diese dürfen 
 
 Die sonstigen Berufe sind durch das Arbeitsamt oder allgemein verfügbar.
 
-#### _1. Zivilist_
+### 1. Zivilist
 
 Endlich die Einbürgerung geschafft und nun deinen Traum leben!
 
 * darf nur kleinere Diebstähle oder Vergehen gegen die guten Sitten tätigen
 * Zivilisten dürfen kleinere Gruppierung aus 4 Personen bilden (sie können sich nicht auf die Gang- oder Familienregeln berufen)
 
-#### _2. Straßenmusiker_
+### 2. Straßenmusiker
 
 Du spielst wie ein Gott und hast es trotzdem nicht in die großen Konzerthallen geschafft.
 Naja... für die Straße reicht es.
@@ -110,7 +110,7 @@ Naja... für die Straße reicht es.
 * kann ein Honorar für Privatkonzerte verlangen
 * muss Platzverweisen und Anweisungen zur Einstellung der Musik von Ordnungskräften Folge leisten
 
-#### _3. Mechaniker_
+### 3. Mechaniker
 
 Wie gut das es dich gibt! Du hilfst anderen, wenn mal deren Auto nicht will.
 
@@ -119,7 +119,7 @@ Wie gut das es dich gibt! Du hilfst anderen, wenn mal deren Auto nicht will.
 * darf die Reparatur von Fahrzeugen nicht verweigern
 * muss für eine Reparatur mind. 2.000$ verlangen
 
-#### _4. Taxifahrer_
+### 4. Taxifahrer
 
 Du hilfst allen von A nach B zu kommen.
 
@@ -127,7 +127,7 @@ Du hilfst allen von A nach B zu kommen.
 * muss Fahrdienste zur Verfügung stellen
 * darf max. 2.000$ für eine Fahrt verlangen
 
-#### _5. Streuner_
+### 5. Streuner
 
 Als Streuner ist die Straße dein Zuhause.
 
@@ -140,7 +140,7 @@ Als Streuner ist die Straße dein Zuhause.
 * darf mit anderen Hunden kommunizieren
 * darf nicht ohne legitimen Grund zubeißen, ein legitimer Grund wäre z.B Tollwut o.Ä.
 
-#### _6. Polizeihund_
+### 6. Polizeihund
 
 Als Polizeihund bist du an der Seite deines Hundeführers ein Garant für die Sicherheit im Staat.
 
