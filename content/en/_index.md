@@ -8,9 +8,9 @@ landing:
   height: 500
   image: favicon/android-icon-192x192.png
   title:
-    - Z Themes
+    - Good Gaming Community | Regelwerke
   text:
-    - This is Hugo Z Themes documentation site
+    - Hier findest du alle wichtigen Regeln, Informationen und Hinweise zu unseren Gameservern
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
