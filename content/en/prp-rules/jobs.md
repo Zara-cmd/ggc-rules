@@ -167,7 +167,7 @@ Das Schießen auf feindliche Gangmitglieder & Kartellanhänger ist in der eigene
 Die Mitglieder einer Gang müssen jeder Zeit ohne weiteres ihrer Gang zuordbar sein.
 Das bedeutet, dass Bloods rot und Crips blau zu tragen haben.
 
-#### 5. Los Zetas & Los Muertos
+### 5. Los Zetas & Los Muertos
 
 Als Anhänger gehörst du einem kriminellen Kartell aus den Abgründen Mexikos an.
 
