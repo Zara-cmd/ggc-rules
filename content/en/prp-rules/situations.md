@@ -17,7 +17,7 @@ Hinrichtungen einzelner Personen dürfen nur durch die Fraktionsleiter durchgef�
 Folgende Aspekte sind zu berücksichtigen:
 
 * Eine Hinrichtung darf nur einmal pro Tag durch die jeweilige Fraktion erfolgen.
-* Die Hinrichtung einer Person muss im zuständigen [Unterforum](https://ggc.lol/) dokumentiert werden.
+* Die Hinrichtung einer Person muss im Forum dokumentiert werden.
 * Eine Hinrichtung darf nur aufgrund eines nachvollziehbaren und schwerwiegenden Grundes erfolgen (z.B. angezettelter Clankrieg).
 * Der hingerichtete Spieler muss seinen Namen ändern.
 

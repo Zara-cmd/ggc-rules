@@ -59,7 +59,7 @@ Sobald du gestorben bist, vergisst du alles was mit der vorherigen RP-Situation 
 
 Es ist nach 10 Minuten erlaubt, sein Fahrzeug vom Ort abzuholen ohne sich in die bestehende RP-Situation einzufinden.
 
-#### 3a. Todes-Screen
+#### _3a. Todes-Screen_
 
 Sollte man während des Zwischenstadiums (Tod und lebendig) wiederbelebt werden, behält man sein Wissen. 
 Information welche während des Zwischenstadiums (Todes-Screen) aufgenommen werden, dürfen nicht im Rollenspiel verwendet werden.
@@ -68,16 +68,16 @@ Information welche während des Zwischenstadiums (Todes-Screen) aufgenommen werd
 
 Die Kooperationsregeln geben die Verhältnisse zwischen den einzelnen Berufen und Fraktionen wieder.
 
-#### 4a. Kooperation zwischen Gangs und Kartelle
+#### _4a. Kooperation zwischen Gangs und Kartelle_
 
 Freundschaftliche Verhältnisse dürfen unter den Fraktionen rp-technisch bestehen. Gangs/Kartellen ist die Kooperation unter- oder miteinander in jeglicher Form untersagt.
 Auch die aktive Behinderung anderer Fraktionen um sich gegenseitig einen Vorteil zu verschaffen, das gemeinsame Printen von Geld oder die gemeinsame Herstellung von Drogen ist verboten.
 
-#### 4b. Kooperation zwischen Polizei und kriminellen Fraktionen
+#### _4b. Kooperation zwischen Polizei und kriminellen Fraktionen_
 
 Die Kooperation zwischen polizeilichen Institutionen und kriminellen Fraktionen ist untersagt.
 
-#### 4c. Mediziner
+#### _4c. Mediziner_
 
 Die Fraktion der Mediziner (Medical Center) ist grundsätzlich gegenüber allen Personen und Fraktionen neutral. Sie müssen ihre Dienste allen Personen gleichermaßen zur Verfügung stellen und dürfen niemanden aufgrund seiner Zugehörigkeit schlechter behandeln.
 
@@ -87,30 +87,30 @@ Sie dürfen ausschließlich der Polizei im Rahmen der Amtshilfe Unterstützung u
 
 Abuse ist das Ausnutzen von unerwünschten Möglichkeiten um sich oder anderen einen unfairen Vorteil zu verschaffen.
 
-#### 5a. Meta Gaming
+#### _5a. Meta Gaming_
 
 Jegliche Informationen die durch externe Kommunikationskanäle (z.B. TeamSpeak³ oder OOC-Chat) in Erfahrung gebracht wurden, dürfen im Rollenspiel nicht verwendet werden.
 Es ist ausschließlich erlaubt die Informationen im zugehörigen Unterforum Roleplay als zusätzliche Informationen miteinfließen zu lassen.
 
 Informationen die durch Meta Gaming bekannt wurden, sind unwirksam und nicht weiter im Rollenspiel zu verwenden.
 
-#### 5b. Thirdperson-Abuse
+#### _5b. Thirdperson-Abuse_
 
 Die Thirdperson-Funktion darf in Gefechten nicht verwendet werden.
 
-#### 5c. Bugabuse
+#### _5c. Bugabuse_
 
 Es ist verboten Fehler in der Serverkonfiguration auszunutzen oder Positionen in nicht üblichen Teilen der Map einzunehmen.
 Jeder Fehler muss der Serverleitung gemeldet werden.
 
-#### 5d. Regellücken
+#### _5d. Regellücken_
 
 Jeder Spieler verpflichtet sich fehlende Regeln, welche eindeutig im Sinne dieses Regelwerkes wären mit Verstand zu Ende zu führen.
 Die bewusste Ausnutzung von Regellücken oder Unklarheiten sind verboten.
 
 Bei Fragen rund um das Regelwerk oder seiner Interpretation ist sich an die Moderation zu wenden.
 
-#### 5e. Jobabuse
+#### _5e. Jobabuse_
 
 Das Wechseln seines Berufes um einer RP-Situation zu entfliehen oder sich in bewusst in eine RP-Situation einzufinden, ist verboten.
 
@@ -128,7 +128,7 @@ Während laufender RP-Situationen ist es verboten seinen Beruf zu wechseln.
 Das grundlose Beschädigen oder Zerstören von Fahrzeugen ist verboten.
 Fahrzeuge dürfen nur im Rahmen eines Gefechtes oder zum Stoppen von Flüchtigen beschädigt oder zerstört werden.
 
-#### 8a. Diebstahl von Autos
+#### _8a. Diebstahl von Autos_
 
 Der Diebstahl von Fahrzeugen ist grundsätzlich erlaubt.
 
@@ -177,7 +177,7 @@ Du darfst unter Umständen fliehen, wenn du nicht mehr aktiv bedroht wirst und d
 Für die Sprache im Chat greift Punkt 1 unter Allgemeines.
 Der Gruppenchat ("U"-Chat) ist kein OOC-Chat und dient zur Verständigung unter den Fraktionen.
 
-#### 12a. OOC-Chat
+#### _12a. OOC-Chat_
 
 Innerhalb des Rollenspiels sind OOC-Gespräche untersagt.
 
@@ -186,11 +186,11 @@ Innerhalb des Rollenspiels sind OOC-Gespräche untersagt.
 Eine Supportsitzung dient zur Klärung von Sachverhalten und der Aufklärung von Schwierigkeiten.
 Es gibt keinen Anspruch auf eine Supportsitzung. Die Teammitglieder entscheiden über Umfang und Art der Sitzung.
 
-#### 13a. Täuschung
+#### _13a. Täuschung_
 
 Es ist verboten Teammitglieder während einer Supportsitzung anzulügen oder zu täuschen.
 
-#### 13b. Pflichten
+#### _13b. Pflichten_
 
 Jeder Spieler muss grundsätzlich den Teammitgliedern für eine Supportsitzung zur Verfügung stehen und sich dieser in einem angemessenen Verhalten präsentieren. Auch das bewusste Verlassen des Servers während einer Supportsitzung ist verboten.
 Den Anweisungen von Teammitgliedern ist Folge zu leisten.

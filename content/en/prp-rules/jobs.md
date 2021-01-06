@@ -16,56 +16,56 @@ Der Gebrauch der Dienstwaffe stellt das letzte Mittel der Wahl dar und ist bedac
 
 Sofern ein Fahrzeug unschuldige Insassen beherbergt ist die Schusswaffe als Mittel zum Anhalten des Fahrzeuges nicht gestattet.
 
-#### 1b. Taser
+#### _1b. Taser_
 
 Der Taser darf nicht willkürlich genutzt werden.
 
-#### 1c. Equipment
+#### _1c. Equipment_
 
 Material und Equipment der Polizei darf nicht an Dritte weitergereicht werden.
 
-#### 1d. Überfälle
+#### _1d. Überfälle_
 
 Die Entführung und der Überfall von Polizisten ist nur gestattet, wenn sich mind. 4 Beamte im Dienst befinden.
 
-#### 1e. Einschüchterung
+#### _1e. Einschüchterung_
 
 Die Polizei darf niemanden durch die Schusswaffe oder den Taser einschüchtern um Informationen oder ein Geständnis zu erhalten.
 
-#### 1f. SWAT
+#### _1f. SWAT_
 
 Das SWAT ist dazu berechtigt Streifen durchzuführen.
 Streifendienst darf nur in gängiger Uniform getätigt werden.
 Alle weiteren Regelungen gelten für das SWAT entsprechend.
 
-#### 1g. Ausbildung & Qualifizierung
+#### _1g. Ausbildung & Qualifizierung_
 
 Die Polizeiführung hat neue Anwärter einzuarbeiten und durch eine Ausbildung zu qualifizieren.
 Auch Berufsrückkehrer müssen nach einer Frist von zwei Monaten erneut eine Ausbildung absolvieren.
 Die Ausbildungsordnung wird durch die Fraktionsleitung bestimmt.
 
-#### 1h. Haftzeit & Bußgeld
+#### _1h. Haftzeit & Bußgeld_
 
 Die Polizei kann frei in ihrem Ermessen eine Haft- oder Geldbuße verhängen.
 Leichte Vergehen (erstmalige Vergehen) sind grundsätzlich durch eine Geldbuße zu ahnden. Sofern die Geldbuße in allen Fällen nicht gezahlt werde kann, muss diese durch eine angemessene Haftstrafe beglichen werden.
 
-#### 1i. Beschlagnahmung
+#### _1i. Beschlagnahmung_
 
 Beschlagnahmungen dürfen nur zur Durchsetzung von Recht, der Abnahme von Diebesgut und Entziehung von illegalen Gegenständen erfolgen.
 Beschlagnahmungen dürfen nicht als Ersatz für eine Geldbuße erfolgen!
 
-#### 1j. Hausdurchsuchungen
+#### _1j. Hausdurchsuchungen_
 
 Die Polizei darf nur mit Erlaubnis des Besitzers oder einem genehmigten und begründeten Grund ins Gebäude eines Spielers eindringen.
 Bei einem Schusswechsel ist es der Person jeder Zeit gestattet in das Gebäude ohne Erlaubnis einzudringen.
 
-#### 1k. Durchsuchungen
+#### _1k. Durchsuchungen_
 
 Die Durchsuchung von Personen darf nur stattfinden, wenn diese an einem Schussgefecht oder unmittelbar an einer schwerwiegenden Straftat beteiligt waren.
 Die vorherige Durchsuchung von Personen die inhaftiert werden, ist immer gestattet.
 Niemand darf aufgrund eines Verkehrsdelikt durchsucht werden.
 
-#### 1l. Zuständigkeiten
+#### _1l. Zuständigkeiten_
 
 Die Polizei ist eine Schutzpolizei und in eine Spezialeinheit (SWAT) aufgeteilt.
 Der Chief of Police und der Assistant Chief stellen für beide Gruppen die Fraktionsleitung dar.
@@ -81,27 +81,27 @@ Die Mitarbeiter des Medical Centers haben den Auftrag die Bevölkerung vor Unhei
 Den Mitarbeitern des Medical Centers darf nicht geschadet werden, sie dürfen jedoch durch andere Fraktionen und Personen vertrieben werden.
 Kein Mitglied dieser Fraktion darf Straftaten begehen.
 
-#### 2a. Giftspritze
+#### _2a. Giftspritze_
 
 Die Giftspritze darf nur zum Einschläfern von Tieren genutzt werden.
 
-#### 2b. Behandlungspflicht
+#### _2b. Behandlungspflicht_
 
 Jeder Mitarbeiter hat die Pflicht einen Verletzten auf Bitte zu verpflegen.
 Eine willkürliche Herausgabe von Medikamenten ist nicht erlaubt. Diese dürfen nur aus medizinischen Zwecke direkt eingesetzt werden.
 
-### 3. Sonstige Berufe
+## Sonstige Berufe
 
 Die sonstigen Berufe sind durch das Arbeitsamt oder allgemein verfügbar.
 
-#### 3a. Zivilist
+#### _1. Zivilist_
 
 Endlich die Einbürgerung geschafft und nun deinen Traum leben!
 
 * darf nur kleinere Diebstähle oder Vergehen gegen die guten Sitten tätigen
 * Zivilisten dürfen kleinere Gruppierung aus 4 Personen bilden (sie können sich nicht auf die Gang- oder Familienregeln berufen)
 
-#### 3b. Straßenmusiker
+#### _2. Straßenmusiker_
 
 Du spielst wie ein Gott und hast es trotzdem nicht in die großen Konzerthallen geschafft.
 Naja... für die Straße reicht es.
@@ -110,7 +110,7 @@ Naja... für die Straße reicht es.
 * kann ein Honorar für Privatkonzerte verlangen
 * muss Platzverweisen und Anweisungen zur Einstellung der Musik von Ordnungskräften Folge leisten
 
-#### 3c. Mechaniker
+#### _3. Mechaniker_
 
 Wie gut das es dich gibt! Du hilfst anderen, wenn mal deren Auto nicht will.
 
@@ -119,7 +119,7 @@ Wie gut das es dich gibt! Du hilfst anderen, wenn mal deren Auto nicht will.
 * darf die Reparatur von Fahrzeugen nicht verweigern
 * muss für eine Reparatur mind. 2.000$ verlangen
 
-#### 3d. Taxifahrer
+#### _4. Taxifahrer_
 
 Du hilfst allen von A nach B zu kommen.
 
@@ -127,7 +127,7 @@ Du hilfst allen von A nach B zu kommen.
 * muss Fahrdienste zur Verfügung stellen
 * darf max. 2.000$ für eine Fahrt verlangen
 
-#### 3e. Streuner
+#### _5. Streuner_
 
 Als Streuner ist die Straße dein Zuhause.
 
@@ -140,7 +140,7 @@ Als Streuner ist die Straße dein Zuhause.
 * darf mit anderen Hunden kommunizieren
 * darf nicht ohne legitimen Grund zubeißen, ein legitimer Grund wäre z.B Tollwut o.Ä.
 
-#### 3f. Polizeihund
+#### _6. Polizeihund_
 
 Als Polizeihund bist du an der Seite deines Hundeführers ein Garant für die Sicherheit im Staat.
 
@@ -152,17 +152,17 @@ Als Polizeihund bist du an der Seite deines Hundeführers ein Garant für die Si
 * darf mit anderen Hunden kommunizieren
 * muss sich in der Nähe des Hundeführers aufhalten
 
-## Kriminelle
+## Kriminelle Fraktionen
 
 ### 4. Bloods & Crips
 
 Als Gangmitglied bist du Herr über dein Viertel.
 
-#### 4a. Verhältnis zu anderen Fraktionen
+#### _4a. Verhältnis zu anderen Fraktionen_
 
 Das Schießen auf feindliche Gangmitglieder & Kartellanhänger ist in der eigenen Hood jeder Zeit ohne Ankündigung gestattet.
 
-#### 4b. Erkennungspflicht
+#### _4b. Erkennungspflicht_
 
 Die Mitglieder einer Gang müssen jeder Zeit ohne weiteres ihrer Gang zuordbar sein.
 Das bedeutet, dass Bloods rot und Crips blau zu tragen haben.
@@ -171,11 +171,11 @@ Das bedeutet, dass Bloods rot und Crips blau zu tragen haben.
 
 Als Anhänger gehörst du einem kriminellen Kartell aus den Abgründen Mexikos an.
 
-#### 4a. Verhältnis zu anderen Fraktionen
+#### _5a. Verhältnis zu anderen Fraktionen_
 
 Das Schießen auf feindliche Gangmitglieder & Kartellanhänger ist auf dem eigenen Gebiet jeder Zeit ohne Ankündigung gestattet.
 
-#### 4b. Erkennungspflicht
+#### _5b. Erkennungspflicht_
 
 Die Mitglieder eines Kartells müssen jeder Zeit ohne weiteres ihres Kartell zuordbar sein.
 
