@@ -160,6 +160,7 @@ Folgende Dinge gelten als FailRP:
 * Bunnyhopping oder Crouch Jumping
 * das Ziehen von Waffen in jeder noch so kleinen Situation
 * Foltern von anderen Spielern
+* die Nutzung von NPCs, wenn der gleiche Beruf durch einen Spieler ausgeübt wird
 
 ### 11. FearRP
 
