@@ -44,6 +44,17 @@ Unter einem "Überfall" versteht man die Bedrohung eines anderen Spielers zur Er
 * kann der Spieler das Geld nicht zeitnah erbringen oder hat es nicht, darf er getötet werden.
 * Einbrüche dürfen nur alle 30 Minuten durchgeführt werden.
 
+## Banküberfall
+
+Unter einem "Banküberfall" versteht das gewaltsame Eindringen in eine staatliche Bank zur Erlangung dortiger Geldmittel.
+Überfälle dürfen nur durch kriminelle Fraktionen und folgenden Aspekten erfolgen:
+
+* in das Bankgebäude darf erst ab 3 Polizisten eingedrungen werden.
+* nach erfolgter Erbeutung muss versucht werden das Gebäude zu verlassen.
+* die Bank kann alle 20 Minuten durch eine Fraktion ausgeraubt werden (Cooldown!)
+
+Es können bis zu 4 Personen das Gebäude überfallen und max. 30.000§ erbeutet werden.
+
 ## Raid
 
 Unter einem "Raid" ist ein gewaltsamer Einbruch mit Waffen in das Haus oder Gebiet eines anderen Spielers gemeint.

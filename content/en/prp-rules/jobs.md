@@ -90,6 +90,23 @@ Die Giftspritze darf nur zum Einschläfern von Tieren genutzt werden.
 Jeder Mitarbeiter hat die Pflicht einen Verletzten auf Bitte zu verpflegen.
 Eine willkürliche Herausgabe von Medikamenten ist nicht erlaubt. Diese dürfen nur aus medizinischen Zwecke direkt eingesetzt werden.
 
+### 3. Anwalt
+
+Als Anwalt setzt du dich für deine Mandanten ein und sorgst für deren Freiheit.
+
+#### _3a. Zuständigkeit_
+
+Als Anwalt hast du das Recht und die Pflicht jeder Zeit die Gefangenen zu besuchen.
+Die Polizei oder andere staatliche Fraktionen dürfen dies nur unter Auflagen der allgemeinen Sicherheit temporär verweigern.
+
+#### _3b. Kaution_
+
+Du hast die Möglichkeit Gefangenen in Form einer Kaution die Freiheit zu geben.
+Du kannst für deine Mandanten so bis zu 50.000$ verlangen.
+Bei besonders schweren Vergehen wie Mord, Terrorismus und Geiselnahme muss mindestens 15.000$ verlangt werden.
+
+Die Kaution muss über das offizielle Kautionssystem geleistet werden.
+
 ## Sonstige Berufe
 
 Die sonstigen Berufe sind durch das Arbeitsamt oder allgemein verfügbar.
