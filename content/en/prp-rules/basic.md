@@ -83,6 +83,10 @@ Die Fraktion der Mediziner (Medical Center) ist grundsätzlich gegenüber allen 
 
 Sie dürfen ausschließlich der Polizei im Rahmen der Amtshilfe Unterstützung und Hilfe anbieten. Sofern es sich dabei um keine direkte Untersützung in Kämpfen und Gefechten handelt.
 
+#### _4d. Waffenhändler_
+
+Der Waffenhändler darf mit niemanden kooperieren.
+
 ### 5. Abuse
 
 Abuse ist das Ausnutzen von unerwünschten Möglichkeiten um sich oder anderen einen unfairen Vorteil zu verschaffen.

@@ -169,6 +169,15 @@ Als Polizeihund bist du an der Seite deines Hundeführers ein Garant für die Si
 * darf mit anderen Hunden kommunizieren
 * muss sich in der Nähe des Hundeführers aufhalten
 
+### 7. Waffenhändler
+
+Als Waffenhändler ermöglichst du den amerikanischen Traum von einer Waffe für Jedermann.
+
+* kann für den Verkauf an Personen ohne Waffenlizenz bestraft werden
+* kann den Verkauf von Waffen nur verweigern, wenn die Person keine Lizenz hat
+* muss mindestens das Doppelte vom Grundpreis verlangen
+* darf maximal das Vierfache vom Grundpreis verlangen
+
 ## Kriminelle Fraktionen
 
 ### 4. Bloods & Crips
